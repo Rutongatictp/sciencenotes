@@ -1,0 +1,6 @@
+- Methods
+	- > [[@Computational Protocol to Evaluate Electron–Phonon Interactions Within Density Matrix Perturbation Theory]]
+	- [[DFPT for e-p coupling]]
+	- [[(DFT+U or occupation subspace methods]]
+	- [[FPH冻声子法]]
+	- [[PIMD for e-p coupling]]
